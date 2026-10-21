@@ -1,10 +1,10 @@
-# Recall AI: AI-Powered Study Set Generator
+ # Recall AI: AI-Powered Study Set Generator
 
 Turn any topic or a pile of notes into a ready-to-use study set in seconds. Recall uses the Gemini API to generate structured **flashcards** and a **quiz**, so you spend your time learning instead of making study material.
 
 Unlike a chatbot, Recall returns structured study content that is validated before it is shown, so the app never renders broken or unexpected output.
 
-**[Live Demo](https://recall-ai.vercel.app)** | **[Screen Recording](https://drive.google.com/file/d/1dcKVwqh_c3CGSxGfU5rnZiYL00Ud34Dp/view?usp=sharing)**
+**[Live Demo](https://frontend-internship-assignment-chi.vercel.app)** | **[Screen Recording](https://drive.google.com/file/d/1dcKVwqh_c3CGSxGfU5rnZiYL00Ud34Dp/view?usp=sharing)**
 
 ---
 
