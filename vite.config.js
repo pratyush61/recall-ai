@@ -37,7 +37,7 @@ function localApi(env) {
   };
 }
 
-export default defineConfi(({ mode }) => {
+export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, process.cwd(), ''); // '' prefix: server-only vars, never exposed to the client bundle
   return { plugins: [react(), localApi(env)] };
 });
