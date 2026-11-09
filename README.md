@@ -1,4 +1,4 @@
- # Recall AI: AI-Powered Study Set Generators
+ # Recall AI: AI-Powered Study Set Generator
 
 Turn any topic or a pile of notes into a ready-to-use study set in seconds. Recall uses the Gemini API to generate structured **flashcards** and a **quiz**, so you spend your time learning instead of making study material.
 
