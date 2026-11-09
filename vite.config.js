@@ -27,7 +27,7 @@ function localApi(env) {
           try {
             body = JSON.parse(raw);
           } catch {
-            return send(500, { error: { kind: 'bad_request', message: 'Invalid JSON body.' } });
+            return send(400, { error: { kind: 'bad_request', message: 'Invalid JSON body.' } });
           }
           const result = await handleGenerate(body, env);
           send(result.status, result.body);
